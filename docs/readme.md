@@ -33,23 +33,23 @@ Here are some demos of our speech synthesis system. You can click the audio file
 
 <div align="center">
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/1.wav" type="audio/wav">
+    <source src="https://raw.githubusercontent.com/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/1.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/2.wav" type="audio/wav">
+    <source src="https://raw.githubusercontent.com/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/2.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/3.wav" type="audio/wav">
+    <source src="https://raw.githubusercontent.com/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/3.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/4.wav" type="audio/wav">
+    <source src="https://raw.githubusercontent.com/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/4.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/5.wav" type="audio/wav">
+    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/5.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 </div>
