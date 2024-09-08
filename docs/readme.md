@@ -136,6 +136,25 @@ This directory contains samples and results for the speech editing task, showcas
 
 This folder showcases the application of SpeechSEC in the speech continuation task, demonstrating how to generate natural continuations of human speech based on a given segment.
 
+<table border="0">
+  <tr>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+      <p>A beautiful plane is flying in the sky</p>
+    </td>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+      <p>speech continuation</p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <!-- 第一行 2 个音频 -->
   <audio controls>
@@ -154,6 +173,7 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
     <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
+  <p>Description for the first audio: This is the original audio.</p>
   <audio controls>
     <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
     Your browser does not support the audio element.
