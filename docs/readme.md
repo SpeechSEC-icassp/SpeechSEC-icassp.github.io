@@ -160,7 +160,7 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
-        <p>A beautiful plane is flying in the sky</p>
+        <p>I left him collapsed in the chair</p>
       </td>
       <td>
         <audio controls>
@@ -176,7 +176,7 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
-        <p>A beautiful plane is flying in the sky</p>
+        <p>Mr.Sprague realize the trouble, quickly threw off the current, stop the engine</p>
       </td>
       <td>
         <audio controls>
