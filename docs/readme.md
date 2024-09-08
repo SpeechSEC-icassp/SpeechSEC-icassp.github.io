@@ -31,6 +31,8 @@ Here are some demos of our speech synthesis system. You can click the audio file
 
 ### SpeechSEC_SpeechSynthesis
 
+Includes samples and results for the speech synthesis task, demonstrating how SpeechSEC framework can be used to generate speech with a specific voice.
+
 <div align="center">
   <audio controls>
     <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/1.wav" type="audio/wav">
@@ -57,6 +59,8 @@ Here are some demos of our speech synthesis system. You can click the audio file
 <br>
 
 ### SpeechSEC_SpeechEditing
+
+This directory contains samples and results for the speech editing task, showcasing SpeechSEC's capability to make detailed edits on speech segments while maintaining coherence and clarity.
 
 <table>
   <tr>
@@ -129,6 +133,8 @@ Here are some demos of our speech synthesis system. You can click the audio file
 <br>
 
 ### SpeechSEC_SpeechContinuation
+
+This folder showcases the application of SpeechSEC in the speech continuation task, demonstrating how to generate natural continuations of human speech based on a given segment.
 
 <div align="center">
   <!-- 第一行 2 个音频 -->
