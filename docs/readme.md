@@ -141,54 +141,50 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
     <tr>
       <td>
         <audio controls>
-          <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
+          <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
         <p>A beautiful plane is flying in the sky</p>
       </td>
       <td>
         <audio controls>
-          <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
+          <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1_ContinueResult.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+        <p>speech continuation</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <audio controls>
+          <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+        <p>A beautiful plane is flying in the sky</p>
+      </td>
+      <td>
+        <audio controls>
+          <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+        <p>speech continuation</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <audio controls>
+          <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+        <p>A beautiful plane is flying in the sky</p>
+      </td>
+      <td>
+        <audio controls>
+          <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3_ContinueResult.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
         <p>speech continuation</p>
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <!-- 第一行 2 个音频 -->
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1_ContinueResult.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-
-<div align="center">
-  <!-- 第一行 2 个音频 -->
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-
-<div align="center">
-  <!-- 第二行 2 个音频 -->
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3_ContinueResult.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
 </div>
