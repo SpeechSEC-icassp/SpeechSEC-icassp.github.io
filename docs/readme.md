@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 <div align="center">
   <h2>Introduction</h2>
