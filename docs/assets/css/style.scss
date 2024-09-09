@@ -15,10 +15,13 @@ table {
     font-weight: bold;
     background-color: #f0f0f0;  /* 自定义表头背景色 */
   }
+  td{
+    height: 150px;              /* 固定行高为150px */
+  }
 
   th, td {
     padding: 10px;              /* 自定义的内边距 */
-    border: none;               /* 移除单元格边框 */
+    border: 0px;               /* 移除单元格边框 */
   }
 }
 
