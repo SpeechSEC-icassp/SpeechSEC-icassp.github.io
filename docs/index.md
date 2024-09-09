@@ -140,7 +140,7 @@ This directory contains samples and results for the speech editing task, showcas
 This folder showcases the application of SpeechSEC in the speech continuation task, demonstrating how to generate natural continuations of human speech based on a given segment.
 
 <div align="center">
-  <table border="0" cellspacing="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <audio controls>
