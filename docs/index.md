@@ -175,7 +175,7 @@ This directory contains samples and results for the speech editing task, showcas
 
 This folder showcases the application of SpeechSEC in the speech continuation task, demonstrating how to generate natural continuations of human speech based on a given segment.
 
-<div align="center">
+<div align="center" text-align: "center">
   <table>
    <tr>
     <th>Original</th>
@@ -217,7 +217,7 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
-        <p>Mr.Sprague realize the trouble, quickly <br> threw off the current, stop the engine</p>
+        <p>Mr.Sprague realize the trouble, quickly threw <br> off the current, stop the engine</p>
       </td>
       <td>
         <audio controls>
