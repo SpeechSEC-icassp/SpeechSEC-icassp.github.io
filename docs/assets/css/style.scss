@@ -3,24 +3,6 @@
 
 @import "{{ site.theme }}";
 
-table {
-  border-collapse: collapse;
-  width: 100%;
-  text-align: center;
-}
-th, td {
-  padding: 10px;
-}
-/* 只保留第一行下方的横线 */
-th {
-  border-bottom: 2px solid black;
-}
-/* 只保留中间两条竖线 */
-td:nth-child(2), th:nth-child(2) {
-  border-left: 2px solid black;
-  border-right: 2px solid black;
-}
-
 .no-border-table {
     border-collapse: collapse;
     width: 100%;
