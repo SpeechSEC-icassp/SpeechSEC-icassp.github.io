@@ -57,6 +57,38 @@ Includes samples and results for the speech synthesis task, demonstrating how Sp
     <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/5.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
+    <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/6.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/7.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/8.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/9.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/10.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+    <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/11.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/12.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls>
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/13.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
 </div>
 
 <br>
@@ -126,7 +158,11 @@ This directory contains samples and results for the speech editing task, showcas
     </td>
     <td>
       <audio controls>
-        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_delete_quickly" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_delete_quickly.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+       <audio controls>
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_replace_slowly.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -158,7 +194,6 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1_ContinueResult.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
-        <p>speech continuation</p>
       </td>
     </tr>
     <tr>
@@ -174,7 +209,6 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
-        <p>speech continuation</p>
       </td>
     </tr>
     <tr>
@@ -190,7 +224,6 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3_ContinueResult.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
-        <p>speech continuation</p>
       </td>
     </tr>
   </table>
