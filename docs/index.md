@@ -175,7 +175,7 @@ This directory contains samples and results for the speech editing task, showcas
 
 This folder showcases the application of SpeechSEC in the speech continuation task, demonstrating how to generate natural continuations of human speech based on a given segment.
 
-<div align="center" text-align: "center">
+<div class="div-table">
   <table>
    <tr>
     <th>Original</th>
