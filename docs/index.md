@@ -74,39 +74,19 @@ This directory contains samples and results for the speech editing task, showcas
   <tr>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Original.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Original.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Add.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Add.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Remove.wav" type="audio/wav">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Original.wav" type="audio/wav">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_edit_add_a_funny_and_impressive.wav" type="audio/wav">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Edit_Remove.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Remove.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -114,19 +94,39 @@ This directory contains samples and results for the speech editing task, showcas
   <tr>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Original.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Original.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Edit_Add.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_edit_add_a_funny_and_impressive.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Edit_Remove.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Edit_Remove.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_SpeechSEC_SpeechEditing/3_Original.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_add_andCallThePolice.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_delete_quickly" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -192,20 +192,3 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
   </table>
 </div>
 
-<table class="no-border-table">
-  <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
-  </tr>
-  <tr>
-    <td>Row 1, Col 1</td>
-    <td>Row 1, Col 2</td>
-    <td>Row 1, Col 3</td>
-  </tr>
-  <tr>
-    <td>Row 2, Col 1</td>
-    <td>Row 2, Col 2</td>
-    <td>Row 2, Col 3</td>
-  </tr>
-</table>
