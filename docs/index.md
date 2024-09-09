@@ -46,15 +46,15 @@ Includes samples and results for the speech synthesis task, demonstrating how Sp
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/3.wav" type="audio/wav">
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/3.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/4.wav" type="audio/wav">
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/4.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC-icassp.github.io/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/5.wav" type="audio/wav">
+    <source src="./demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/5.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 </div>
@@ -106,7 +106,7 @@ This directory contains samples and results for the speech editing task, showcas
     </td>
     <td>
       <audio controls>
-        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Edit_Remove.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_edit_replace_history_biology.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -114,7 +114,7 @@ This directory contains samples and results for the speech editing task, showcas
   <tr>
     <td>
       <audio controls>
-        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_SpeechSEC_SpeechEditing/3_Original.wav" type="audio/wav">
+        <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Original.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -140,7 +140,11 @@ This directory contains samples and results for the speech editing task, showcas
 This folder showcases the application of SpeechSEC in the speech continuation task, demonstrating how to generate natural continuations of human speech based on a given segment.
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table>
+   <tr>
+    <th>Original</th>
+    <th>Speech Continuation</th>
+  </tr>
     <tr>
       <td>
         <audio controls>
