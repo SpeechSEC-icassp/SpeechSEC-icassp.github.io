@@ -3,13 +3,31 @@
 
 @import "{{ site.theme }}";
 
-.no-border-table {
-    border-collapse: collapse;
-    width: 100%;
-    border: none;
-    text-align: center;
+/* 自定义表格样式，覆盖主题中的表格样式 */
+table {
+  border-collapse: collapse; /* 让表格无滚动且合并边框 */
+  width: 100%;               /* 确保表格充满页面宽度 */
+  text-align: center;         /* 让表格内容居中 */
+  word-break: normal;         /* 自定义的单词换行方式 */
+  
+  th {
+    font-weight: bold;
+    background-color: #f0f0f0;  /* 自定义表头背景色 */
+  }
+
+  th, td {
+    padding: 10px;              /* 自定义的内边距 */
+    border: none;               /* 移除单元格边框 */
+  }
 }
-.no-border-table th, .no-border-table td {
-    padding: 10px; /* 设置单元格内的填充 */
-    border: none;  /* 移除单元格的边框 */
-}
+
+// .no-border-table {
+//     border-collapse: collapse;
+//     width: 100%;
+//     border: none;
+//     text-align: center;
+// }
+// .no-border-table th, .no-border-table td {
+//     padding: 10px; /* 设置单元格内的填充 */
+//     border: none;  /* 移除单元格的边框 */
+// }
