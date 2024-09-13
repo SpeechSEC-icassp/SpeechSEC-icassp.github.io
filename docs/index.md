@@ -97,7 +97,7 @@ Includes samples and results for the speech synthesis task, demonstrating how Sp
 
 This directory contains samples and results for the speech editing task, showcasing SpeechSEC's capability to make detailed edits on speech segments while maintaining coherence and clarity.
 
-<table>
+<table class="edit_table">
   <tr>
     <th>Original</th>
     <th>Edit_Add</th>
