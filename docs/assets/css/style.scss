@@ -16,7 +16,7 @@ table {
     background-color: #f0f0f0;  /* 自定义表头背景色 */
   }
   td{
-    height: 150px;              /* 固定行高为150px */
+    height: 260px;              /* 固定行高为150px */
   }
 
   th, td {
@@ -30,7 +30,10 @@ table {
     width: 100%;  
     font-size: 12px;
   }
-.edit_table{
+.div-table td {
+    font-size: 12px;
+  }
+.edit_table td {
     font-size: 12px;
 }
 
