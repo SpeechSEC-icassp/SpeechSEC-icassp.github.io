@@ -109,18 +109,21 @@ This directory contains samples and results for the speech editing task, showcas
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Original.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>Hello dear paper reviewer, wish you glad.</p>
     </td>
     <td>
       <audio controls>
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Add.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+       <p>Hello dear <b>smart and professional</b> paper reviewer, wish you glad.</p>
     </td>
     <td>
       <audio controls>
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Remove.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+       <p>Hello dear <s>paper</s> reviewer, wish you glad.</p>
     </td>
   </tr>
   <tr>
@@ -129,18 +132,21 @@ This directory contains samples and results for the speech editing task, showcas
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Original.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>They still draw about it in history classes</p>
     </td>
     <td>
       <audio controls>
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_edit_add_a_funny_and_impressive.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>They still draw about it in a <b>funny and impressive</b> history classes</p>
     </td>
     <td>
       <audio controls>
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_edit_replace_history_biology.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>They still draw about it in <b>biology</b> classes</p>
     </td>
   </tr>
   <tr>
@@ -149,22 +155,26 @@ This directory contains samples and results for the speech editing task, showcas
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Original.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>Mr.Sprague realize the trouble, quickly threw off the current, stop the engine</p>
     </td>
     <td>
       <audio controls>
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_add_andCallThePolice.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>Mr.Sprague realize the trouble, quickly threw off the current, stop the engine and <b>call the police</b>.</p>
     </td>
     <td>
       <audio controls>
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_delete_quickly.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>Mr.Sprague realize the trouble, <s>quickly</s> threw off the current, stop the engine</p>
        <audio controls>
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_replace_slowly.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
+      <p>Mr.Sprague realize the trouble, <b>slowly</b> threw off the current, stop the engine</p>
     </td>
   </tr>
 </table>
