@@ -5,14 +5,14 @@ layout: default
 <div align="center">
   <h2>Introduction</h2>
 </div>
-Recent advancements in non-autoregressive audio generation have garnered significant attention. However, traditional single-task speech synthesis methods focus primarily on mapping semantic tokens to acoustic tokens, overlooking the internal relationships within acoustic features. Addressing this gap, we introduce SpeechSEC, a unified multi-task framework designed for Speech Synthesis, Editing, and Continuation tasks by dynamically adjusting input conditions. SpeechSEC not only enhances speech synthesis performance in speech intelligibility, audio quality, and voice preservation by acquiring shared and diverse knowledge across different tasks, but also efficiently executes editing and continuation tasks with good performance via non-autoregressive techniques. Additionally, SpeechSEC exhibits a strong adaptability to current speech discretization methods, like Hubert, Descript-Audio-Codec, and SpeechTokenizer, which showcases the robustness of our approach. Audio samples are available.
+Recent advancements in non-autoregressive single-task speech generation have garnered significant attention. However, traditional single-task speech synthesis methods primarily focus on mapping semantic tokens to acoustic tokens, overlooking the internal relationships within acoustic features. Addressing this gap, we introduce SpeechSEC, a unified multi-task framework designed for Speech Synthesis, Editing, and Continuation tasks by dynamically adjusting input conditions. SpeechSEC not only enhances speech synthesis performance in terms of speech intelligibility, audio quality, and voice preservation by acquiring shared and diverse knowledge across different tasks, but also efficiently executes editing and continuation tasks with high performance via non-autoregressive techniques. Additionally, SpeechSEC exhibits strong adaptability to current speech discretization methods, such as HuBERT, Descript-Audio-Codec, and SpeechTokenizer, showcasing the robustness of our approach.
 
 <br><br>
 
 <div align="center">
   <h2>Model Structure</h2>
 </div>
-![示例图片](./images/0311_06.png)
+![示例图片](./images/0311-0912-4.drawio_00.png)
 
 <br><br>
 
@@ -20,9 +20,9 @@ Recent advancements in non-autoregressive audio generation have garnered signifi
   <h2>Contribution</h2>
 </div>
 
-- We improve speech synthesis performance through multi-task joint training in aspects including speech intelligibility, voice preservation, audio quality with fast speed utilizing non-autoregressive methods.
-- We propose a multi-task audio processing framework that can efficiently accomplish high-quality speech synthesis, speech editing and speech continuation tasks in a non-autoregressive manner through a single unified model, bringing innovation to the field of audio processing.
-- We verify the adaptability of different discretion methods of speech processing and demonstrated that the multi-task joint training method we proposed is effective for different extractors of semantic tokens and acoustic tokens which showcases the wide applicability and robustness of our method.
+- We enhance speech synthesis performance through multi-task joint training, improving intelligibility, voice preservation, and audio quality while ensuring fast execution via non-autoregressive methods.
+- We present a unified multi-task framework for efficient, high-quality speech synthesis, editing, and continuation, offering innovation in audio processing.
+- We demonstrate the adaptability and robustness of our multi-task joint training method across various semantic and acoustic token extraction methods, proving its broad applicability.
 
 <br><br>
 
