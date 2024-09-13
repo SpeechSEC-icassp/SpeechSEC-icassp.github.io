@@ -155,7 +155,7 @@ This directory contains samples and results for the speech editing task, showcas
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Original.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
-      <p>Mr.Sprague realize the trouble, quickly threw off the current, stop the engine</p>
+      <p>Mr.Sprague realize the trouble, quickly threw off the current, stop the engine.</p>
     </td>
     <td>
       <audio controls>
@@ -174,7 +174,7 @@ This directory contains samples and results for the speech editing task, showcas
         <source src="./demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_edit_replace_slowly.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
-      <p>Mr.Sprague realize the trouble, <b>slowly</b> threw off the current, stop the engine</p>
+      <p>Mr.Sprague realize the trouble, <b>slowly</b> threw off the current, stop the engine.</p>
     </td>
   </tr>
 </table>
