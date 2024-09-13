@@ -101,7 +101,7 @@ This directory contains samples and results for the speech editing task, showcas
   <tr>
     <th>Original</th>
     <th>Edit_Add</th>
-    <th>Edit_Remove</th>
+    <th>Edit_Remove/Replace</th>
   </tr>
   <tr>
     <td>
@@ -204,6 +204,7 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1_ContinueResult.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
+         <p>leaving the sun and cloud behind.</p>
       </td>
     </tr>
     <tr>
@@ -219,6 +220,7 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
+        <p>the door bell rang behind me</p>
       </td>
     </tr>
     <tr>
@@ -234,6 +236,7 @@ This folder showcases the application of SpeechSEC in the speech continuation ta
           <source src="./demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3_ContinueResult.wav" type="audio/wav">
           Your browser does not support the audio element.
         </audio>
+        <p>making the blue sky for smoking, it's really a terrible accident.</p>
       </td>
     </tr>
   </table>
