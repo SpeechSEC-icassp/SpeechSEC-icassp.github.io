@@ -16,7 +16,7 @@ table {
     background-color: #f0f0f0;  /* 自定义表头背景色 */
   }
   td{
-    height: 260px;              /* 固定行高为150px */
+    // height: 260px;              /* 固定行高为150px */
   }
 
   th, td {
@@ -32,10 +32,14 @@ table {
 
 .div-table td {
     font-size: 14px;
+  height: 200px;  
   }
 
 .edit_table td {
+    height: 280px;  
     font-size: 14px;
+    padding-left: 66px; /* 设置左侧内边距 */
+    padding-right: 66px; /* 设置右侧内边距 */
 }
 // .edit_table audio {
 //     margin-top: 30px; /* 设置每个 audio 元素距离表格顶的距离 */
